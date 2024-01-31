@@ -1,4 +1,4 @@
 # TEST-REPO
 This is a test repository
 <br>
-Author - Subhadip Maiti 
+Author - Subhadip Maiti (SIGMOID)
